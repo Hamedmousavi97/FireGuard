@@ -26,6 +26,7 @@ a {
   width: 80px;
   display: inline-block;
   vertical-align: top;
+  border-radius: 5px;
 }
 
 .title {
